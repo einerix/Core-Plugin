@@ -2,7 +2,7 @@ name: Core
 main: Core\Main
 version: 0.0.1
 api: 2.0.0
-author: EricBums
+author: einerixcode
 commands:
     Info:
         description: "Info Main Command"
